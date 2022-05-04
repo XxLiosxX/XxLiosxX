@@ -28,4 +28,4 @@ Soy un joven programador, con sed de conocimiento, estoy interesado en el desarr
  
  ## 🔧 Technologies
  
- ![skills](https://skillicons.dev/icons?i=html,css,py,git,vscode&theme=light)![Uploading image.png…]()
+ ![skills](https://skillicons.dev/icons?i=html,css,py,git,vscode&theme=light)
